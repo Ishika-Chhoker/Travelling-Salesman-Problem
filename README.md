@@ -1,4 +1,4 @@
-# Travelling Salesman Problem Optimization
+# Travelling Salesman Problem
 
 ## Description
 
